@@ -29,14 +29,15 @@
 
 Для виконання тестового завдання обов'язково слід використовувати:
 
- - Ruby, bundle, sinatra, Redis, javascript
+ - Ruby, bundle, sinatra, javascript
  - Покрити код тестами (бажано rspec)
  - Розмістити проект на своєму github профілі
+ - OOP paradigm
 
 Що не слід використовувати:
 
   - Rails
-  - інші СУБД
+  - СУБД
   - react (angular, vue, ...)
 
 Додатковим плюсом буде:
