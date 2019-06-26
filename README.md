@@ -6,7 +6,7 @@
 
 ## Task #1
 
-Кредитний калькулятор, аналог https://finance.ua/ua/calc/deposit
+Депозитний калькулятор, аналог https://finance.ua/ua/calc/deposit
 
 Реалізувати один із додаткових параметрів, таких як:
 
