@@ -32,9 +32,9 @@
 Форма зворотнього зв'язку на сайті.
 
 Поля:
-  - name
-  - email
-  - message
+  - name (не менше 3 символів, та не більше 250)
+  - email (мінімальна перевірка на валідність)
+  - message (не менше 50 символів)
   - файл (формат будь-який)
   - reCAPTCHA https://www.google.com/recaptcha/intro/v3.html
 
@@ -60,5 +60,7 @@
   - params validation
   - heroku
   - bootstrap or foundation
+  - rubocop
+  - reek
 
 # Good luck!
