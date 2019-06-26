@@ -30,8 +30,15 @@
 ## Task #3
 
 Форма зворотнього зв'язку на сайті.
-Поля: name, email, message + reCAPTCHA https://www.google.com/recaptcha/intro/v3.html
-Після успішної валідації всі звернення шлемо на пошту
+
+Поля:
+  - name
+  - email
+  - message
+  - файл (формат будь-який)
+  - reCAPTCHA https://www.google.com/recaptcha/intro/v3.html
+
+Після успішної валідації всі звернення шлемо на пошту. Файл має бути прикріплений до листа
 
 # Requirements
 
