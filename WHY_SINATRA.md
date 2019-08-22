@@ -21,3 +21,9 @@
 
   В підсумку виходить, що нам легше оцінювати завдання на sinatra ніж на rails.
   Так як ми бачимо більше інформації про кандидата...
+
+
+## Any questions?
+
+  If you have any questions, please feel free to ask!
+  You can create an issue in this repository.
